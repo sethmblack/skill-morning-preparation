@@ -1,10 +1,9 @@
 ---
 name: morning-preparation
-description: Pre-visualize potential difficulties before they occur to build resilience,
-  reduce anxiety, and prepare appropriate responses.
+description: Pre-visualize potential difficulties before they occur to build resilience, reduce anxiety, and prepare appropriate responses.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - morning-preparation-(premeditatio-malorum)
